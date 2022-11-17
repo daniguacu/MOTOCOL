@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MOTOCOL/static/css/main.073c9b0a.css",
-    "main.js": "/MOTOCOL/static/js/main.14173a42.js",
+    "main.css": "/MOTOCOL/static/css/main.5348b346.css",
+    "main.js": "/MOTOCOL/static/js/main.ddf4b192.js",
     "static/js/787.3210b43d.chunk.js": "/MOTOCOL/static/js/787.3210b43d.chunk.js",
-    "static/media/logo.svg": "/MOTOCOL/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/moto2.JPG": "/MOTOCOL/static/media/moto2.55ed234f497d4c2938fa.JPG",
     "index.html": "/MOTOCOL/index.html",
-    "main.073c9b0a.css.map": "/MOTOCOL/static/css/main.073c9b0a.css.map",
-    "main.14173a42.js.map": "/MOTOCOL/static/js/main.14173a42.js.map",
+    "main.5348b346.css.map": "/MOTOCOL/static/css/main.5348b346.css.map",
+    "main.ddf4b192.js.map": "/MOTOCOL/static/js/main.ddf4b192.js.map",
     "787.3210b43d.chunk.js.map": "/MOTOCOL/static/js/787.3210b43d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.14173a42.js"
+    "static/css/main.5348b346.css",
+    "static/js/main.ddf4b192.js"
   ]
 }
